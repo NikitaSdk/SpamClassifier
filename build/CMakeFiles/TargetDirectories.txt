@@ -1,0 +1,4 @@
+C:/Users/user/CLionProjects/CodeForTest1withC/build/CMakeFiles/DlibTest.dir
+C:/Users/user/CLionProjects/CodeForTest1withC/build/CMakeFiles/CodeForTest1withC.dir
+C:/Users/user/CLionProjects/CodeForTest1withC/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/CLionProjects/CodeForTest1withC/build/CMakeFiles/ZERO_CHECK.dir

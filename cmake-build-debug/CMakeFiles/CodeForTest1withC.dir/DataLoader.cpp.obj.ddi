@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\CodeForTest1withC.dir\\DataLoader.cpp.obj",
+            "outputs": [
+                "C:\\Users\\user\\CLionProjects\\CodeForTest1withC\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\CodeForTest1withC.dir\\DataLoader.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

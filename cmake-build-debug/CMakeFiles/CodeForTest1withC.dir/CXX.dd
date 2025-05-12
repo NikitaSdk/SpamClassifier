@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\CodeForTest1withC.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\CodeForTest1withC.dir\SpamClassifier.cpp.obj: dyndep
+
+build CMakeFiles\CodeForTest1withC.dir\DataLoader.cpp.obj: dyndep
+

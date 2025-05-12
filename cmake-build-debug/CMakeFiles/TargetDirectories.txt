@@ -1,0 +1,4 @@
+C:/Users/user/CLionProjects/CodeForTest1withC/cmake-build-debug/CMakeFiles/DlibTest.dir
+C:/Users/user/CLionProjects/CodeForTest1withC/cmake-build-debug/CMakeFiles/CodeForTest1withC.dir
+C:/Users/user/CLionProjects/CodeForTest1withC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/CodeForTest1withC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
